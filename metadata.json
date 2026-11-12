@@ -1,0 +1,6 @@
+{
+  "name": "İstanbul Kent Üniversitesi - Öğrenci Bilgi Sistemi (OİS)",
+  "description": "İstanbul Kent Üniversitesi OİS Öğrenci Bilgi Sistemi; Ders Programı, Sınav Programı, Transkript, Duyurular ve Mesajlar portalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
